@@ -1,0 +1,6 @@
+
+Open Home page
+Click on Save btn
+
+Actual result: “Failed to save image“ toast is displayed
+Expected result: Image is downloaded successfully
