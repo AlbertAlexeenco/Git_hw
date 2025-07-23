@@ -1,0 +1,8 @@
+Devices: Samsung J2, Redmi note 6 - Android 9
+
+Steps:
+Open any category
+Click on Save btn
+
+Actual result: “Failed to save image“ toast is displayed
+Expected result: Image is downloaded successfully
