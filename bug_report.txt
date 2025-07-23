@@ -1,1 +1,5 @@
+Icon from the Ad banner is missing
 
+Devices: Realme, Oppo, Redmi 6
+Actual result: Icon from the Ad banner is not displayed
+Expected result: Icon from the Ad banner is displayed successfully
