@@ -1,1 +1,4 @@
-My txt file
+Name, surname: Albert Alexeenco
+Age: 31
+Pets: 1
+Desired salary: 2 Reeses's per day
